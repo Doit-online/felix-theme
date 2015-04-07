@@ -1,0 +1,7 @@
+name: 'Main menu-left'
+items:
+    -
+        title: 'All pages'
+        type: all-static-pages
+        code: ''
+        replace: '1'
